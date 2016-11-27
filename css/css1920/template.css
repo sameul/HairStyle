@@ -1,0 +1,31 @@
+.self_font
+{
+	float: left;
+	display:inline-block;
+	width: 90px;
+	margin: 0px;
+	font-weight: bold;
+}
+.bottombar
+{
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	height: 50px;
+	background-color: #e3e3e3;
+	margin: 0 auto;
+	clear: both;
+}
+.bottombar_content
+{
+	margin: 0 auto;
+	height: 50px;
+	text-align: center;
+	align-content: center;
+}
+.footerbar
+{
+	line-height: 50px;
+	padding-bottom: 5px;
+	background-color: #e3e3e3;
+}
