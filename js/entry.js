@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //JavaScript Document
 var Other1920_0="index.css";
 var Other1920_1="template.css"
