@@ -14,6 +14,15 @@ if(screen.width >= 1920)
 	scroll_img[4] = "images/images1920/head05.jpg";
 	scroll_img[5] = "images/images1920/head06.jpg";
 }
+else if(screen.width >= 1360)
+{
+	scroll_img[0] = "images/images1360/head01.jpg";
+	scroll_img[1] = "images/images1360/head02.jpg";
+	scroll_img[2] = "images/images1360/head03.jpg";
+	scroll_img[3] = "images/images1360/head04.jpg";
+	scroll_img[4] = "images/images1360/head05.jpg";
+	scroll_img[5] = "images/images1360/head06.jpg";
+}
 else if(screen.width >= 1280)
 {
 	scroll_img[0] = "images/images1280/head01.jpg";

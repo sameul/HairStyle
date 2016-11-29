@@ -8,6 +8,10 @@ function WriteHtml()
 	{
 		document.write('<img src="images/images1920/best_employee.jpg" alt="best_employee"/>');	
 	}
+	else if(screen.width >= 1360)
+	{
+		document.write('<img src="images/images1360/best_employee.jpg" alt="best_employee"/>');
+	}
 	else if(screen.width >= 1280)
 	{
 		document.write('<img src="images/images1280/best_employee.jpg" alt="best_employee"/>');	

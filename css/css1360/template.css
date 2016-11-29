@@ -9,7 +9,6 @@
 }
 .bottombar
 {
-	clear: both;
 	position: fixed;
 	margin: 0 auto;
 	bottom: 0px;
@@ -17,20 +16,21 @@
 	height: 30px;
 	background-color: #e3e3e3;
 	font-size: 7px;
+	clear: both;
 }
 .bottombar_content
 {
+	width: 600px;
 	margin: 0 auto;
-	margin-left: 270px;
-	overflow: hidden;
-	clear: both;
+	text-align: center;
+	align-content: center;
+	/*margin-left: 270px;*/
 	line-height: 30px;
 	font-size: 7px;
 	height: 30px;
 }
 .footerbar
 {
-	margin: 0 auto;
 	font-size: 7px;
 	line-height: 30px;
 	height: 30px;

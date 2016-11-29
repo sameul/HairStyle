@@ -33,6 +33,11 @@ function ScreenWidth()
 		document.write('<link rel="stylesheet type="text/css" href="./css/css1600/index.css">');
 		document.write('<link rel="stylesheet type="text/css" href="./css/css1600/template.css">');
 	}
+	else if(screen.width >= 1360)
+	{
+		document.write('<link rel="stylesheet type="text/css" href="./css/css1360/index.css">');
+		document.write('<link rel="stylesheet type="text/css" href="./css/css1360/template.css">');
+	}
 	else if(screen.width >= 1280)
 	{
 		// SetActiveStyleSheet(Other1280_0, Other1280_1);
